@@ -1,2 +1,0 @@
-# EstructuraAPI
-inicio de prisma
